@@ -9,5 +9,6 @@ clone
 
 cpo A
 
-
 cpo A again
+
+cpo B
